@@ -1,0 +1,8 @@
+{
+    "company_name": "Company1",
+    "api_url": "http://localhost:5000/loyalty",
+    "api_params_GET": "/get?id,/get?phone-number,/get?email-address",
+    "api_params_POST": "/post/add,/post/deduct",
+    "api_key": "api-key",
+    "api_value": "MONET-1"
+}
